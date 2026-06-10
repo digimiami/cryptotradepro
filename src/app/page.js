@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { reviews, faqData } from '../data/reviews';
 import { articles, siteName, siteDesc } from '../data/articles';
+import TelegramButton, { handleNewsletterClick } from '../components/ConvertButton';
 
 export default function HomePage() {
   const latestArticles = articles.slice(0, 6);
@@ -112,10 +113,10 @@ export default function HomePage() {
             <h2>📩 Free Crypto Trading Signals</h2>
             <p>Join <strong>@CryptoSignalsFree3</strong> on Telegram for daily market analysis, trade setups, and expired domain deals — 100% free.</p>
             <div className="newsletter-btns">
-              <a href="https://t.me/CryptoSignalsFree3" className="btn btn-primary" target="_blank">
+              <TelegramButton className="btn btn-primary">
                 Join Telegram Channel →
-              </a>
-              <a href="https://breeds-julian-meal-colony.trycloudflare.com" className="btn btn-outline" target="_blank">
+              </TelegramButton>
+              <a href="https://breeds-julian-meal-colony.trycloudflare.com" className="btn btn-outline" target="_blank" onClick={handleNewsletterClick}>
                 📧 Subscribe via Email
               </a>
             </div>

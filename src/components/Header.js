@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import TelegramLink from './TelegramLink';
 
 export default function Header() {
   return (
@@ -9,7 +10,7 @@ export default function Header() {
           <Link href="/">Home</Link>
           <Link href="/reviews">Reviews</Link>
           <Link href="/blog">Articles</Link>
-          <a href="https://t.me/CryptoSignalsFree3" target="_blank" className="nav-signals">📢 Free Signals</a>
+          <TelegramLink className="nav-signals" source="nav">📢 Free Signals</TelegramLink>
         </nav>
       </div>
     </header>
