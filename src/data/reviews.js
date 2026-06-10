@@ -38,7 +38,7 @@ export const reviews = [
     fees: "0.16% maker / 0.26% taker (spot)",
     coins: 200,
     regulation: "FinCEN, FCA, VARA, 40+ US states",
-    affiliateUrl: "https://kraken.com",
+    affiliateUrl: "https://invite.kraken.com/JDNW/jb8279xo",
     bonus: "No sign-up bonus"
   },
   {

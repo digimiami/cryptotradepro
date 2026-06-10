@@ -766,7 +766,7 @@ Kraken is one of the most regulated exchanges:
 ### Verdict: 8.8/10
 The safest major exchange. If security is your #1 priority, Kraken is the best choice. Fees are slightly higher than Bybit, but the peace of mind is worth it.
 
-[Sign Up for Kraken →](https://kraken.com)
+[Sign Up for Kraken →](https://invite.kraken.com/JDNW/jb8279xo)
     `,
     category: "Reviews",
     date: "2026-06-04",
