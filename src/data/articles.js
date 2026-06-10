@@ -20,7 +20,7 @@ Bybit dominates crypto derivatives with over 20 million users. It offers up to 1
 - Insurance fund protecting against auto-deleveraging
 - Bybit Launchpad for new token allocations
 
-[Start Trading on Bybit →](https://www.bybit.com/invite?ref=CRYPTO)
+[Start Trading on Bybit →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
 
 #### 2. Binance — Best Overall
 The world's largest exchange by volume. 600+ coins, spot and futures, staking, earn products, NFT marketplace.
@@ -96,7 +96,7 @@ Bybit's copy trading is best-in-class. Follow top traders with 1-click, auto-syn
 ### Verdict: 9.2/10
 Bybit is the **best exchange for derivatives trading** in 2026. The fee structure is unmatched for high-volume traders, and copy trading makes it accessible for beginners.
 
-[Claim Your Bybit Bonus →](https://www.bybit.com/invite?ref=CRYPTO)
+[Claim Your Bybit Bonus →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Reviews",
     date: "2026-06-10",
@@ -140,7 +140,7 @@ Binance has adapted well to regulation:
 ### Verdict: 8.5/10
 Still the most comprehensive exchange. The sheer range of products is unmatched. However, some users may prefer simpler platforms.
 
-[Trade on Binance →](https://www.binance.com/en/register?ref=CRYPTO)
+[Trade on Binance →](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00QK8KOD3O)
     `,
     category: "Reviews",
     date: "2026-06-10",
@@ -196,7 +196,7 @@ Never invest more than you can afford to lose. Start with 5-10% of your planned 
 - RSI and MACD indicators
 - Market cycles and psychology
 
-[Start Trading Now on Bybit →](https://www.bybit.com/invite?ref=CRYPTO)
+[Start Trading Now on Bybit →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Guides",
     date: "2026-06-09",
@@ -255,7 +255,7 @@ Let experienced traders manage your capital. Bybit and eToro offer this.
 - **Some time?** Trend Following or Swing Trading
 - **Full-time?** Scalping or Breakout Trading
 
-[Trade with Low Fees on Bybit →](https://www.bybit.com/invite?ref=CRYPTO)
+[Trade with Low Fees on Bybit →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Guides",
     date: "2026-06-09",
@@ -419,7 +419,7 @@ With $500 at 20x leverage ($10,000 position):
 - Real-time liquidation monitoring
 - Insurance fund protection
 
-[Start Leverage Trading on Bybit →](https://www.bybit.com/invite?ref=CRYPTO)
+[Start Leverage Trading on Bybit →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Guides",
     date: "2026-06-07",
@@ -476,7 +476,7 @@ Open-source. Touchscreen. Best for maximum security.
 ### Pro Tip
 Use an exchange wallet for active trading (faster, cheaper fees) and a cold wallet for long-term holdings.
 
-[Trade with Bybit Wallet →](https://www.bybit.com/invite?ref=CRYPTO)
+[Trade with Bybit Wallet →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Guides",
     date: "2026-06-07",
@@ -536,7 +536,7 @@ One of the most common questions new traders ask: should I trade spot or futures
 - **Professional trader?** → Futures (lower fees, both directions)
 - **Want safety?** → Spot with stop-loss orders
 
-[Trade on Bybit — Both Spot & Futures →](https://www.bybit.com/invite?ref=CRYPTO)
+[Trade on Bybit — Both Spot & Futures →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Guides",
     date: "2026-06-06",
@@ -597,7 +597,7 @@ Each candle shows four price points:
 | 4h-1d | Swing trading | All levels |
 | 1w-1m | Long-term | Beginners |
 
-[Trade with Advanced Charting on Bybit →](https://www.bybit.com/invite?ref=CRYPTO)
+[Trade with Advanced Charting on Bybit →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Guides",
     date: "2026-06-06",
@@ -719,7 +719,7 @@ Trading bots **do work** when used correctly. However:
 ### Best Bot Platform
 **Bybit** offers the most user-friendly grid and DCA bots with no coding required.
 
-[Try Bybit Trading Bots →](https://www.bybit.com/invite?ref=CRYPTO)
+[Try Bybit Trading Bots →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Guides",
     date: "2026-06-05",
@@ -835,7 +835,7 @@ Fake Elon Musk/Vitalik profiles promising giveaways.
 2. **Bybit** — $500M+ insurance fund, Proof of Reserves
 3. **Binance** — SAFU fund, industry-leading security team
 
-[Trade Safely on Bybit →](https://www.bybit.com/invite?ref=CRYPTO)
+[Trade Safely on Bybit →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Safety",
     date: "2026-06-04",
@@ -890,7 +890,7 @@ DEXs let you trade directly from your wallet without KYC. Here are the best ones
 | Leverage | Limited (GMX/dYdX) | Up to 100x |
 | Coins Available | Any ERC-20/BEP-20 | Curated list |
 
-[Use a CEX for Advanced Trading →](https://www.bybit.com/invite?ref=CRYPTO)
+[Use a CEX for Advanced Trading →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Reviews",
     date: "2026-06-03",
@@ -947,7 +947,7 @@ Crypto taxes don't have to be complicated. Here's everything you need to know ab
 3. Consider tax-loss harvesting in December
 4. Keep records for 7+ years
 
-[Trade on Tax-Friendly Bybit →](https://www.bybit.com/invite?ref=CRYPTO)
+[Trade on Tax-Friendly Bybit →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Guides",
     date: "2026-06-03",
@@ -1006,7 +1006,7 @@ In volatile markets, mass liquidations can push prices against your position.
 ### The Golden Rule of Leverage
 **Never use more leverage than you're willing to lose 100% of.**
 
-[Trade Leverage Safely on Bybit →](https://www.bybit.com/invite?ref=CRYPTO)
+[Trade Leverage Safely on Bybit →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Safety",
     date: "2026-06-02",
@@ -1074,7 +1074,7 @@ Both have excellent security:
 
 **Best for advanced trading: Bybit** (lower fees than both, better for futures)
 
-[Try Bybit — Better Than Both for Futures →](https://www.bybit.com/invite?ref=CRYPTO)
+[Try Bybit — Better Than Both for Futures →](https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen)
     `,
     category: "Reviews",
     date: "2026-06-02",

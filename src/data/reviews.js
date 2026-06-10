@@ -10,7 +10,7 @@ export const reviews = [
     fees: "0.01% maker / 0.06% taker (futures)",
     coins: 400,
     regulation: "CySEC, Dubai VARA, Estonia",
-    affiliateUrl: "https://www.bybit.com/invite?ref=CRYPTO",
+    affiliateUrl: "https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen",
     bonus: "Up to $4,230 in deposit bonus"
   },
   {
@@ -24,7 +24,7 @@ export const reviews = [
     fees: "0.1% spot (0.075% with BNB)",
     coins: 600,
     regulation: "Multiple jurisdictions (varies by region)",
-    affiliateUrl: "https://www.binance.com/en/register?ref=CRYPTO",
+    affiliateUrl: "https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00QK8KOD3O",
     bonus: "Up to $600 in bonuses"
   },
   {

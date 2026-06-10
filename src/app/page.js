@@ -132,7 +132,7 @@ export default function HomePage() {
           <p style={{ color: 'var(--text-muted)', marginBottom: 24, maxWidth: 500, margin: '0 auto 24px' }}>
             Join thousands of traders using our recommended platforms and strategies to navigate the crypto markets.
           </p>
-          <TrackedAffiliateLink href="https://www.bybit.com/invite?ref=CRYPTO" className="btn btn-primary" source="bybit-cta" style={{ fontSize: '1.1rem', padding: '14px 36px' }}>
+          <TrackedAffiliateLink href="https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen" className="btn btn-primary" source="bybit-cta" style={{ fontSize: '1.1rem', padding: '14px 36px' }}>
             Get Started with Bybit →
           </TrackedAffiliateLink>
         </div>

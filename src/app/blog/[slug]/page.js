@@ -96,7 +96,7 @@ export default async function BlogPostPage({ params }) {
       <div className="cta-box" style={{ marginTop: 24 }}>
         <h3>💰 Ready to Trade?</h3>
         <p>Join Bybit — the #1 rated crypto derivatives exchange with the lowest fees and up to $4,230 bonus.</p>
-        <Link href="https://www.bybit.com/invite?ref=CRYPTO" className="btn btn-primary" target="_blank">Start Trading on Bybit →</Link>
+        <Link href="https://www.bybit.com/invite?ref=LJXQEA&medium=referral&utm_campaign=evergreen" className="btn btn-primary" target="_blank">Start Trading on Bybit →</Link>
       </div>
 
       {renderContent(article.content)}
