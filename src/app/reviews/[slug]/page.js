@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { reviews } from '../../../data/reviews';
+import TrackedAffiliateLink from '../../../components/TrackedAffiliateLink';
 import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
@@ -59,7 +60,7 @@ export default async function ReviewPage({ params }) {
         <div className="cta-box">
           <h3>🚀 Start Trading on {r.name}</h3>
           <p>{r.bonus ? `Claim your bonus: ${r.bonus}` : `Trade with one of the most reliable exchanges.`}</p>
-          <Link href={r.affiliateUrl} className="btn btn-primary" target="_blank">Visit {r.name} →</Link>
+          <TrackedAffiliateLink href={r.affiliateUrl} className="btn btn-primary" source={r.slug}>Visit {r.name} →</TrackedAffiliateLink>
         </div>
 
         <Link href="/reviews" style={{ display: 'inline-block', marginTop: 20, color: 'var(--text-muted)' }}>← Back to All Reviews</Link>

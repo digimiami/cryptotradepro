@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { reviews } from '../../data/reviews';
+import TrackedAffiliateLink from '../../components/TrackedAffiliateLink';
 
 export const metadata = {
   title: 'Crypto Exchange Reviews 2026',
@@ -34,9 +35,9 @@ export default function ReviewsPage() {
                   {r.cons.slice(0, 1).map((c, i) => <span className="tag red" key={i}>{c}</span>)}
                 </div>
                 <div style={{ display: 'flex', gap: 10, marginTop: 16 }}>
-                  <Link href={r.affiliateUrl} className="btn btn-primary" target="_blank" style={{ flex: 1, textAlign: 'center' }}>
+                  <TrackedAffiliateLink href={r.affiliateUrl} className="btn btn-primary" source={r.slug} style={{ flex: 1, textAlign: 'center' }}>
                     Visit {r.name}
-                  </Link>
+                  </TrackedAffiliateLink>
                   <Link href={`/reviews/${r.slug}`} className="btn btn-outline" style={{ flex: 1, textAlign: 'center' }}>
                     Full Review
                   </Link>

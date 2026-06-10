@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { reviews, faqData } from '../data/reviews';
 import { articles, siteName, siteDesc } from '../data/articles';
 import TelegramButton, { handleNewsletterClick } from '../components/ConvertButton';
+import TrackedAffiliateLink from '../components/TrackedAffiliateLink';
 
 export default function HomePage() {
   const latestArticles = articles.slice(0, 6);
@@ -36,9 +37,9 @@ export default function HomePage() {
                   {r.pros.slice(0, 3).map((p, i) => <span className="tag" key={i}>{p}</span>)}
                   {r.cons.slice(0, 1).map((c, i) => <span className="tag red" key={i}>{c}</span>)}
                 </div>
-                <Link href={r.affiliateUrl} className="btn btn-primary" target="_blank" style={{ display: 'block', textAlign: 'center' }}>
+                <TrackedAffiliateLink href={r.affiliateUrl} className="btn btn-primary" source={r.slug} style={{ display: 'block', textAlign: 'center' }}>
                   Visit {r.name} {r.bonus && `— ${r.bonus}`}
-                </Link>
+                </TrackedAffiliateLink>
               </div>
             ))}
           </div>
@@ -131,9 +132,9 @@ export default function HomePage() {
           <p style={{ color: 'var(--text-muted)', marginBottom: 24, maxWidth: 500, margin: '0 auto 24px' }}>
             Join thousands of traders using our recommended platforms and strategies to navigate the crypto markets.
           </p>
-          <Link href="https://www.bybit.com/invite?ref=CRYPTO" className="btn btn-primary" target="_blank" style={{ fontSize: '1.1rem', padding: '14px 36px' }}>
+          <TrackedAffiliateLink href="https://www.bybit.com/invite?ref=CRYPTO" className="btn btn-primary" source="bybit-cta" style={{ fontSize: '1.1rem', padding: '14px 36px' }}>
             Get Started with Bybit →
-          </Link>
+          </TrackedAffiliateLink>
         </div>
       </section>
     </>

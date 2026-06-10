@@ -47,12 +47,17 @@ export async function GET(request) {
   // In production, you'd store this in a DB. For now, log it.
   console.log('[CONVERSION]', JSON.stringify(logEntry));
 
-  // Redirect to Telegram channel (or a thank-you page if no Telegram)
-  const redirectTarget = source === 'telegram' 
-    ? 'https://t.me/CryptoSignalsFree3'
-    : source === 'newsletter'
-    ? 'https://breeds-julian-meal-colony.trycloudflare.com'
-    : '/thank-you';
+  // Determine redirect target
+  let redirectTarget;
+  if (source === 'telegram') {
+    redirectTarget = 'https://t.me/CryptoSignalsFree3';
+  } else if (source === 'newsletter') {
+    redirectTarget = 'https://breeds-julian-meal-colony.trycloudflare.com';
+  } else if (searchParams.has('redirect')) {
+    redirectTarget = searchParams.get('redirect');
+  } else {
+    redirectTarget = '/thank-you';
+  }
 
   return Response.redirect(redirectTarget, 302);
 }
