@@ -66,7 +66,7 @@ export const reviews = [
     fees: "0.5-0.6% spot (maker/taker)",
     coins: 250,
     regulation: "NYDFS, FinCEN, 50 US states",
-    affiliateUrl: "https://coinbase.com",
+    affiliateUrl: "https://coinbase.com/join/3VNEB5H?src=referral-link",
     bonus: "Up to $10 in free BTC"
   }
 ];
