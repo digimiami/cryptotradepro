@@ -10,6 +10,7 @@ export default function Footer() {
           <Link href="/blog">Articles & Guides</Link>
           <Link href="/about">About</Link>
           <Link href="/contact">Contact</Link>
+          <a href="https://t.me/CryptoSignalsFree3" target="_blank">📢 Free Signals Channel</a>
         </div>
         <p>CryptoTradePro.com © {new Date().getFullYear()} — Independent Crypto Trading Reviews</p>
         <p className="disc">

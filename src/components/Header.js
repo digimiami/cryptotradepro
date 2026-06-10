@@ -9,7 +9,7 @@ export default function Header() {
           <Link href="/">Home</Link>
           <Link href="/reviews">Reviews</Link>
           <Link href="/blog">Articles</Link>
-          <Link href="/about">About</Link>
+          <a href="https://t.me/CryptoSignalsFree3" target="_blank" className="nav-signals">📢 Free Signals</a>
         </nav>
       </div>
     </header>

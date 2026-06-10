@@ -37,6 +37,15 @@ header .container {
 nav { display: flex; gap: 24px; }
 nav a { color: var(--text-muted); text-decoration: none; font-size: 0.9rem; font-weight: 500; transition: color 0.2s; }
 nav a:hover { color: var(--accent); }
+.nav-signals {
+  background: linear-gradient(135deg, #1da1f2, #0088cc);
+  color: #fff !important;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+.nav-signals:hover { opacity: 0.9; transform: translateY(-1px); }
 
 /* BUTTONS */
 .btn {
@@ -247,3 +256,18 @@ footer .disc { font-size: 0.75rem; max-width: 600px; margin: 0 auto; line-height
 }
 .faq-item h3 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; color: var(--accent); }
 .faq-item p { font-size: 0.9rem; color: var(--text-muted); }
+
+/* NEWSLETTER OPT-IN */
+.newsletter-box {
+  text-align: center;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 40px 30px;
+  border: 1px solid rgba(245, 158, 11, 0.2);
+  border-radius: 16px;
+  background: rgba(17, 24, 39, 0.6);
+}
+.newsletter-box h2 { font-size: 1.6rem; font-weight: 700; margin-bottom: 12px; color: var(--accent); }
+.newsletter-box p { font-size: 1rem; color: var(--text-muted); margin-bottom: 24px; line-height: 1.7; }
+.newsletter-box p strong { color: #1da1f2; }
+.newsletter-btns { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }

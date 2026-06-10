@@ -105,6 +105,24 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* NEWSLETTER OPT-IN */}
+      <section style={{ background: 'linear-gradient(135deg, #0f0c29, #1a1a3e)' }}>
+        <div className="container">
+          <div className="newsletter-box">
+            <h2>📩 Free Crypto Trading Signals</h2>
+            <p>Join <strong>@CryptoSignalsFree3</strong> on Telegram for daily market analysis, trade setups, and expired domain deals — 100% free.</p>
+            <div className="newsletter-btns">
+              <a href="https://t.me/CryptoSignalsFree3" className="btn btn-primary" target="_blank">
+                Join Telegram Channel →
+              </a>
+              <a href="https://breeds-julian-meal-colony.trycloudflare.com" className="btn btn-outline" target="_blank">
+                📧 Subscribe via Email
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* CTA */}
       <section style={{ textAlign: 'center' }}>
         <div className="container">
